@@ -1,2 +1,52 @@
-# Opal
-### Infobot that has info about Retro Consoles, Personal Computers and Operating Systems
+<p align="center">
+<img width="20%" src="https://i.imgur.com/Y3TBiZH.jpg" />
+</p>
+
+<p align="center">
+<b>Opal</b>
+</p>
+
+## How to get it?
+```
+git clone https://github.com/branwright1/opal.git
+cd opal
+npm i # this should install all dependencies.
+``` 
+### Create config.json and fill it with this scheme.
+```Json
+{
+  "token": "put your bot token here",
+  "prefix": "put your prefix here"
+}
+```
+### Run it
+``node main.js`` or ``nodemon main.js`` to auto rerun it after changes
+
+
+## Roadmap
+- [x] About
+  - [x] About Opal
+  - [x] Update info
+- [ ] Retro Consoles
+  - [ ] Atari
+  - [ ] Nintendo
+  - [ ] Microsoft
+  - [ ] Sony
+  - [ ] Sega
+  - [ ] PR with more
+- [ ] Retro Personal Computers
+  - [ ] Amiga
+  - [ ] Apple
+  - [ ] Comodore
+  - [ ] IBM
+  - [ ] MSX
+  - [ ] PR with more 
+- [ ] Retro Operating Systems
+  - [ ] UNIX
+  - [ ] UNIX-like
+  - [ ] Plan 9
+  - [ ] Solaris
+  - [ ] DOS
+  - [ ] FreeDOS
+  - [ ] Windows
+  - [ ] PR with More

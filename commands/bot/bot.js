@@ -8,7 +8,7 @@ module.exports = {
   run: async(client, message, args) => {
 
     const bot = new Discord.MessageEmbed()
-    .setTitle(`About Opal`)
+    .setTitle(`About me`)
     .setColor("#AAC4C4")
     .setDescription("Hi! My name is Opal, I'm infobot with knowledge about Retro Consoles, Personal Computers nad Operating Systems.")
     .setTimestamp()

@@ -1,0 +1,25 @@
+{
+  "name": "opal",
+  "version": "1.0.0",
+  "description": "Discord Bot for Retrocord Community",
+  "main": "main.js",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branwright1/opal.git"
+  },
+  "author": "Brandon Wright",
+  "license": "BSD 2-Clause License",
+  "bugs": {
+    "url": "https://github.com/branwright1/opal/issues"
+  },
+  "homepage": "https://github.com/branwright1/opal#readme"
+}

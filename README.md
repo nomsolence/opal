@@ -38,7 +38,7 @@ npm i # this should install all dependencies.
   - [ ] IBM
   - [ ] MSX
   - [ ] PR with more 
--[ ] Retro Operating Systems
+- [ ] Retro Operating Systems
   - [x] UNIX
   - [ ] UNIX-like
   - [ ] Plan 9

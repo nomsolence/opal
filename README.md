@@ -28,7 +28,7 @@ npm i # this should install all dependencies.
   - [ ] Atari
   - [ ] Nintendo
   - [ ] Microsoft
-  - [ ] Sony
+  - [x] Sony
   - [ ] Sega
   - [ ] PR with more
 - [ ] Retro Personal Computers
@@ -38,8 +38,8 @@ npm i # this should install all dependencies.
   - [ ] IBM
   - [ ] MSX
   - [ ] PR with more 
-- [ ] Retro Operating Systems
-  - [ ] UNIX
+-[ ] Retro Operating Systems
+  - [x] UNIX
   - [ ] UNIX-like
   - [ ] Plan 9
   - [ ] Solaris

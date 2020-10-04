@@ -16,6 +16,7 @@ npm i # this should install all dependencies.
 }
 ```
 ### Run it
+**NOTE**: Edit channel it in update.js and setup your channel for updates.
 ``node main.js`` or ``nodemon main.js`` to auto rerun it after changes
 
 

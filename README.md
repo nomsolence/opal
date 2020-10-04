@@ -1,9 +1,5 @@
 <p align="center">
-<img width="20%" src="https://i.imgur.com/Y3TBiZH.jpg" />
-</p>
-
-<p align="center">
-<b>Opal</b>
+<img width="30%" src="https://i.imgur.com/Y3TBiZH.jpg" />
 </p>
 
 ## How to get it?

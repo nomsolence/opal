@@ -10,7 +10,7 @@ module.exports = {
     const bot = new Discord.MessageEmbed()
     .setTitle(`About Opal`)
     .setColor("#AAC4C4")
-    .setDescription("Hi! My name is Opal, I'm chat bot which can tell you more about retro consoles")
+    .setDescription("Hi! My name is Opal, I'm infobot with knowledge about Retro Consoles, Personal Computers nad Operating Systems.")
     .setTimestamp()
     .setFooter(message.guild.name, message.guild.iconURL())
     message.channel.send(bot);
